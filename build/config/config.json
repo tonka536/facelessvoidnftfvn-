@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0a5D4b528702621a762C2cE4a086bA4469948b64",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0a5D4b528702621a762C2cE4a086bA4469948b64",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Faceless Void NFT",
+  "SYMBOL": "FVN",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/facelessvoidnft",
+  "SHOW_BACKGROUND": true
+}
